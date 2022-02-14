@@ -5,9 +5,9 @@ name: Python pytest (with daskml)
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main_wuhf ]
   pull_request:
-    branches: [ main ]
+    branches: [ main_wuhf ]
 
 jobs:
   build:
